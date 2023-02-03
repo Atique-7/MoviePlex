@@ -50,6 +50,7 @@ module.exports = {
     'react/jsx-props-no-spreading': 0,
     'no-sparse-arrays': 0,
     'no-array-index-key': 0,
+    'import/no-extraneous-dependencies': 0,
     camelcase: 0,
   },
 };
